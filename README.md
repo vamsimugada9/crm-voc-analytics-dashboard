@@ -52,7 +52,6 @@ The dashboard was designed to help business teams monitor lead conversion, custo
 
 ## Dashboard Preview
 
-(Add your dashboard screenshot here)
 
 ---
 
